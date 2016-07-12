@@ -1,7 +1,4 @@
 {
-  "name": "Fun Guestbook",
-  "author": "Sparsh Bansal",
-  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node app"
